@@ -1,1 +1,1 @@
-# lists
+# lists for [Odin](https://www.theodinproject.com)
